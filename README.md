@@ -4,7 +4,7 @@ Learning python - simple alarm clock program
 ## Task
 This simple python script takes command line arguments in the form
 
-### <hour> <minute> <am/pm>
+<i>hour minute am/pm</i>
 
 and sleeps until it is time for the alarm. When finished sleeping,
 it chooses a URL at random from the file "videos.txt" and opens it
